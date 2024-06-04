@@ -1,11 +1,7 @@
-<<<<<<< HEAD
+
 # Weather-App--Task-1
 The Weather App using JavaScript, HTML, and CSS and using the openweather API.
-=======
-# WeatherApplication
-A simple weather application using the openweather API.
 
->>>>>>> d49f0ff (Intial Commit)
 STEPS TO RUN THE CODE: 
 1. Go to https://openweathermap.org
 2. Create a free account
@@ -14,7 +10,7 @@ STEPS TO RUN THE CODE:
 5. Copy that key to clipboard
 6. Insert that key into the required variable in the script.js file
 7. Enjoy!
-<<<<<<< HEAD
+
 
 =======
 >>>>>>> d49f0ff (Intial Commit)
