@@ -12,5 +12,4 @@ STEPS TO RUN THE CODE:
 7. Enjoy!
 
 
-=======
->>>>>>> d49f0ff (Intial Commit)
+
